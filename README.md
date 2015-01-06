@@ -1,4 +1,6 @@
 LPTHW
 =====
 
-"Learn Python The Hard Way" By Zed A. Shaw
+Tracking my progress.
+
+More info: http://learnpythonthehardway.org/
