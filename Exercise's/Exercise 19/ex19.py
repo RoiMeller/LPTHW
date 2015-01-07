@@ -8,7 +8,7 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "Get a blanket.\n"
 
 print "We can just give the function number directly:"
-# pass throw the function the vriables values
+# pass the vriables values to the function 
 cheese_and_crackers(20, 30)
 
 print "Or, we can use variables from our functioln:"
@@ -27,9 +27,8 @@ cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 arg1 = int(raw_input("Enter the first num: "))
 arg2 = int(raw_input("Enter the second num: "))
 
-# Function definition is here
 def sum( arg1, arg2 ):
-   # Add both the parameters and return them."
+   # Adding both parameters and return the resault as total"
    total = arg1 + arg2
    print "print from Inside - The sum of arg1 + arg2 : ", total
    return total
