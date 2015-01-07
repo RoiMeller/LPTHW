@@ -35,7 +35,7 @@ print "I'm going to write these to the file."
 # target.write(line3)
 # target.write("\n")
 
-# write the user input strings to the file - The better way..
+# write the user input to the file - The better way..
 lines = (" %s \n %s \n %s \n ") % (
 	line1, line2, line3 )
 target.write(lines)

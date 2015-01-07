@@ -1,7 +1,7 @@
 # LPTHW Exercise 11
 
 # We put a ',' (comma) at the end of each print line. 
-# This is so print doesn't end the line with a newline character and go to the next line.
+# That way print doesn't end the line with a newline character and go to the next line.
 
 print "How old are you ?",
 age = raw_input()

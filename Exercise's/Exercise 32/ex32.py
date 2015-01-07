@@ -20,7 +20,7 @@ for i in change:
 # we can also build lists, first start with an empty one
 elements = []
 
-# use the range function to count from 0 to 5 
+# uses the range function to count from 0 to 5 
 for i in range(0, 6):
 	print "Adding %d to the list." % i
 	# appended (i) and updates element list

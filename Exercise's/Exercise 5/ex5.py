@@ -21,9 +21,7 @@ print "Actually that's not too heavy."
 print "He's got %s eyes and %s hair." % (eyes, hair)
 print "His teeth are usually %s depending on the coffe." % teeth
 
-# this lline is tricky 
-# its print the 3 variables age, height and weight.. 
-# then sum them up and print the result 
+# This line print the Sum of 3 variables age, height and weight.. 
 print "If I add %d, %d, and %d I get %d." % (
 	age, height, weight, age + height + weight)
 

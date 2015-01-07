@@ -2,7 +2,7 @@
 
 # def (=define) will tell python we want to make a function
 # print_two = the name of the function
-# *args - the variables names ( its has to gp inside '()' parentheses
+# *args - the variables names ( its has to go inside '()' parentheses
 # we end the function line with :
 def print_two(*args):
 # all the lines that are indented four spaces will become attached to this function

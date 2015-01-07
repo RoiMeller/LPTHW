@@ -6,7 +6,7 @@ space_in_a_car = 4
 drivers = 30
 passengers = 90
 
-# not_driven is the sum of cars - drivers variables
+# not_driven is the sum of cars minus drivers variables
 cars_not_driven = cars - drivers
 
 cars_driven = drivers

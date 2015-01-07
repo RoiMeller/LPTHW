@@ -10,7 +10,7 @@ script, filename = argv
 txt = open(filename)
 # print a little opening message
 print "Here's your file %r: " % filename
-# call a read function on txt by using '.' without any parameters..
+# call the  read function on txt by using '.' without any parameters..
 print txt.read()
 
 # close and free up any system resources taken up by the open file.

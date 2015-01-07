@@ -1,11 +1,11 @@
 # LPTHW Exercise 13 - Parameters, Unpacking, Variables
 
 # import - add module ("libraries\features") from the python modules set by asking you which one you want 
-#(argv - argument variable - hold the argument that you pass to your python script )
+# (argv - argument variable - hold the argument that you pass to your python script )
 from sys import argv
 
 # this line "unpacks" argv so that, rather than holding all the arguments
-# it's  get assigned to four variables...
+# it's get assigned to four variables...
 script, first = argv
 
 # Print the first unpacked variable from argv
